@@ -19,7 +19,7 @@ function draw() {
   textSize(74);
 
   if (weCanDraw) {
-    text('🐸', mouseX, mouseY);
+    text('💖', mouseX, mouseY);
   }
 }
 
